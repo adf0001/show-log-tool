@@ -1,0 +1,30 @@
+{
+  "name": "show-log-tool",
+  "version": "1.0.1",
+  "description": "dom show log tool",
+  "main": "show-log-tool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "show",
+    "log"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/show-log-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/show-log-tool/issues"
+  },
+  "homepage": "https://github.com/adf0001/show-log-tool#readme",
+  "dependencies": {
+    "ele-id": "^1.0.2",
+    "htm-tool-css": "^1.0.6",
+    "insert-adjacent-return": "^1.0.1",
+    "query-by-name-path": "^1.0.1",
+    "tmkt": "^1.0.7"
+  }
+}
